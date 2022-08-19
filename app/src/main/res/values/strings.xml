@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TravelBankExercise</string>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lunch">Lunch</string>
+    <string name="dummy_date">Jul 13</string>
+    <string name="date">Date</string>
+
+    <string name="dummy_amount">$120.77</string>
+    <string name="currency">usd</string>
+    <string name="description_optional">Description(optional)</string>
+    <string name="category">Category</string>
+    <string name="total">Total</string>
+    <string name="merchant">Merchant</string>
+</resources>
